@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+#@Animemusicarchive6
 
 
 class Script(object):
@@ -13,7 +13,7 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© @Animemusicarchive6</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -26,15 +26,15 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @Animemusicarchive6</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b>  @Amalbiju154 and @Animemusicarchive6
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b> libery  :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
